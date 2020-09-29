@@ -24,3 +24,11 @@ git clone https://github.com/earth2travis/jammming.git
 ```shell
 cd jammming
 ```
+
+```shell
+npm install
+```
+
+```shell
+npm start
+```
